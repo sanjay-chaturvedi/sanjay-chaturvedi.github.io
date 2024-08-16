@@ -11,39 +11,33 @@ redirect_from:
 
 Education
 ======
-* M.E. in Digitial Techniques and Instrumentation, 2017
-  * Shri G.S. Institute of Technology & Science(SGSITS), Indore 
-* B.E. in Electrical and Electronics Engineering, 2014
-  * Rajiv Gandhi Proudyogiki Vishwavidyalaya(RGPV), Bhopal 
+
+| **Master of Engineering** <br> *Digital Techniques & Instrumentation* | **SGSITS, Indore, India** | **2015-2017** |
+| **Bachelor of Engineering** <br> *Electrical & Electronics Engineering* | **RGPV, Bhopal, India** | **2010-2014** |
 
 Technical Trainings
 ======
-* June-July 2013: Vocational Trainee @ Centre for Research and Industrial Staff Performance, Bhopal
-  * PLC Programming and Applications(Siemens PLC)
-  * PLC Networking using PROFIBUS
 
-* February 2012: Vocational Trainee @ Madhya Pradesh Madhya Kshetra Vidyut Vitran Co. Ltd., Bhopal
-  * Transformer and Switchgear Maintenance and Repair
-  * DISCOM Operation Overview
-  
+| **Vocational Trainee** <br> *PLC Programming and Applications(Siemens PLC)* | **CRISP, Bhopal, India** | **June-July 2013** |
+| **Vocational Trainee** <br> *Transformer and Switchgear Maintenance and Repair* | **Madhya Pradesh Madhya Kshetra Vidyut Vitran Co. Ltd., Bhopal, India** | **February 2012** |
+
 Skills
 ======
-* Mentoring
-* Prototyping Electronics Product
-* Debugging Electronics Circuit
-  * Use of Digital and Analog Oscilloscopes
-  * Use of Multimeters
-  * Use of Function Generators
-* Circuit Simulations in PROTEUS
-* Microcontroller Programming in Assembly and C language
+
+| Programming Languages | C, Python, Assmebly |
+| Simulation Tools | Proteus, MATLAB, Simulink |
+| IDE | STM32Cube, Keil, Arduino IDE |
+| Tools | Oscilloscopes, Multimeters |
 
 Teaching Assitant
 ======
-* Undergraduate Lab @ Electrical Engineering Department, SGSITS, Indore
-  * 8085 Microprocessor programming in Assembly Language
-  * Electronics project development using breadboard implementation
+
+| **SGSITS, Indore, India** |
+| Undergraduate Lab | 8085 Microprocessor programming in Assembly Language | June - December 2016 |
+| Undergraduate Lab | 8051 Micro-controller programming in Assembly Language | June - December 2016 |
   
-Service
+Volunteer Service
 ======
-* Technical support in maintaining Computer labs and Linux Server in the department
+
+| Technical Support | Department computer labs and office electronics | January - June 2017 |
   
