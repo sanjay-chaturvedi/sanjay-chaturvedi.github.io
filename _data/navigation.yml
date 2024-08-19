@@ -2,24 +2,29 @@
 main:
   - title: "Projects"
     url: /projects/
+  
+  - title: "Research"
+    url: /research/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Experience"
-    url: /teaching/ 
+    url: /experience/ 
 
   - title: "CV"
     url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Articles"
+    url: /year-archive/
+
+ # - title: "Guide"
+ #   url: /markdown/
     
  # - title: "Publications"
  #   url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
+  
 
     
         
