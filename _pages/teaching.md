@@ -8,7 +8,7 @@ author_profile: true
 Tutor at IIT Kanpur, India
 ===
 
-| **Year** | **Subjects** |
+| **Year** | **Courses** |
 | 2024 | Control Systems Analysis (EE250, UG Course) |
 | 2023 | Control Systems Analysis (EE250, UG Course) |
 | 2022 | Control Systems Lab (EE380, UG Course) |
@@ -19,7 +19,7 @@ Tutor at IIT Kanpur, India
 Teaching Assistant at IIT Kanpur, India
 ===
 
-| **Year** | **Subjects** |
+| **Year** | **Courses** |
 | 2022 | Basics of  Modern control (EE650) |
 | 2021 | Nonlinear Systems (EE651) <br> Basics of Modern Control (EE650) |
 | 2020 | Academic Session Suspended |
@@ -31,6 +31,6 @@ Teaching Assistant at IIT Kanpur, India
 Teaching Assistant at SGSITS Indore, India
 ===
 
-| **Year** | **Subjects** |
+| **Year** | **Courses** |
 | 2016-17 | 8085 Microprocessor Lab <br> 8051 Microcontroller Lab |
 
