@@ -5,20 +5,11 @@ permalink: /experience/
 author_profile: true
 ---
 
-Doctoral Research Scholar
-===
-
-* worked on 1
-* worked on 2
-* worked on 3
-
-&nbsp;  
-
 Position of Responsibility
 ===
 
 * **Secretary, Mess & Canteen** <br> <span style="font-size:0.80em;"> *April,2019 - March,2020* </span> <br> Elected memeber of Hall Executive Committee(HEC), Hall of Residence 10, IIT Kanpur. I Managed the operation of hostel mess alongwith the members of HEC. 
-* **Volunteer, Security and Transport** <br> <span style="font-size:0.80em;"> *February 2020* </span> <br> Memebr of the team managing the security and transport in a one day event "Open House 2020, IIT Kanpur". In this event, over 3000 students and staff from the schools in kanpur district and nearby districts have visited the institute campus. We managed the in-campus movement of these students between different venues of events. 
+* **Volunteer, Security and Transport** <br> <span style="font-size:0.80em;"> *February 2020* </span> <br> Member of the team managing the security and transport in a one day event "Open House 2020, IIT Kanpur". In this event, over 3000 students and staff from the schools in kanpur district and nearby districts have visited the institute campus. We managed the in-campus movement of these students between different venues of events. 
 
 &nbsp;  
 
