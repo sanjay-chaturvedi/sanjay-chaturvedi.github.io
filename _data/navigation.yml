@@ -1,7 +1,7 @@
 # main links links | the order of different pages on homepage is set fro here
 main:
-  #- title: "Projects"
-  #  url: /projects/
+  - title: "Projects"
+    url: /projects/
   
   - title: "Research"
     url: /research/
