@@ -32,4 +32,4 @@ The maximum applied AC voltage of 270 V is mapped to a rectifier output of 5 VDC
 
 * 1024 maps to 270 VAC
 * 1 maps to (270/1024) VAC
-* $x$ maps to $(270/1024)*x$ VAC
+* $`x`$ maps to $`(270/1024)*x`$ VAC
