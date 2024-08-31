@@ -32,4 +32,34 @@ The maximum applied AC voltage of 270 V is mapped to a rectifier output of 5 VDC
 
 * 1024 maps to 270 VAC
 * 1 maps to (270/1024) VAC
-* $`x`$ maps to $`(270/1024)*x`$ VAC
+* x maps to ((270/1024)*x) VAC
+
+## Hardware components used and the implementation images
+
+List of items for the circuit:
+1. Diode 1N4007 - 2 No.
+2. 230/12-0-12 V voltage transformer - 1 No.
+3. Electrolytic Capacitor, 22 uF-35 V - 1 No.
+4. Arduino Uno development board - 1 No.
+5. Jumper cables/single-core cable
+6. Breadboard - 1 No.
+
+List of items for testing the circuit:
+1. Auto Tranformer(Variac) - 1 No.
+2. Oscilloscope
+3. Multimeter
+
+**Rectifier with a smoothening capacitor and a variable resistor as voltage divider**
+<br/><img src='/images/voltage_setup1.png'>
+
+**Rectifier without a smoothening capacitor, output as shown on oscilloscope**
+<br/><img src='/images/voltage_setup2.png'>
+
+## NOTE
+
+Ideally, the above setup should be able to measure values from 0 VAC to 270 VAC, but practically this does not happen. As the AC voltage level goes down the error in the measurement increases considerably. Empricially, measurements upto 180 VAC on the lower side have less error hence we set it as the lower limit of AC voltage that can be measured accurately with this arrangement. 
+
+The major reason for error in measurement at lower AC voltages are:
+
+1. The non-ideal behaviour of the step-down transformer at lower voltages. That is the reduction in voltage levels at lower values is not in the same ratio as in case of higher voltages.
+2. The lower resolution(10-bit) of in-built ADC in the microcontroller.
