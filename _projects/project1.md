@@ -1,9 +1,9 @@
 ---
 title: "AC Voltage Measurement using Arduino Uno"
-date: 2014-08-14
 excerpt: "Measurement of AC voltage using Arduino Uno development board. A voltage transformer is required in AC voltage measurements and alongwith a resistor voltage divider."
 collection: projects
 ---
+
 
 This project is on the measurement of AC voltages in the range 180 V to 270 V, using an open-source microcontroller development board. Here we have used Adruino Uno as the development board.
 
