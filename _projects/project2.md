@@ -1,5 +1,6 @@
 ---
 title: "AC Curent Measurement using Arduino Uno"
+date: 2014-08-14
 excerpt: "Measurement of AC curent using Arduino Uno development board. A current transformer is required in AC current measurements and alongwith a current sensor"
 collection: projects
 ---
