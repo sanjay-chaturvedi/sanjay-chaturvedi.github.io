@@ -24,12 +24,6 @@ Skills
 | **IDE** | STM32Cube, Keil, Arduino IDE |
 | **Lab Tools** | Oscilloscopes, Multimeters, Function Generators |
 
-Certifications
-===
-
-| Certificate 1 | ttt |
-| Certificate 2 | ppp | 
-
 Tutorship and Teaching Assistant
 ===
 
