@@ -7,8 +7,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Experience"
-    url: /experience/ 
+  #- title: "Experience"
+  #  url: /experience/ 
 
   - title: "CV"
     url: /cv/
@@ -16,11 +16,11 @@ main:
   - title: "Certifications"
     url: /certifications/
 
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
 
-  - title: "Posts"
-    url: /posts/
+  #- title: "Posts"
+  #  url: /posts/
 
  # - title: "Guide"
  #  url: /markdown/
