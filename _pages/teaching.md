@@ -26,5 +26,5 @@ author_profile: true
 
 | **Year** | **Courses** |
 | 2016-17 | 8051 Microcontroller Lab <br> 8085 Microprocessor Lab | Jan, 2017 - June, 2017 <br> July, 2016 - Dec, 2016 | 
-| 2015-16 | Linux server admin <br> Maintenance of department computer labs | Jan, 2016 - June, 2016 <br> July, 2015 - Dec, 2015 | 
+| 2015-16 | Linux Server Admin <br> Maintenance of Department Computer Labs | Jan, 2016 - June, 2016 <br> July, 2015 - Dec, 2015 | 
 
