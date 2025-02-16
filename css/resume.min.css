@@ -5,7 +5,7 @@
  */body{font-family:'Arial',serif;padding-top:54px;color:#2c2c2b}
  @media (min-width:992px)
  {body{padding-top:0;padding-left:17rem}}
- h1,h2,h3,h4,h5,h6{font-family:'Saira Extra Condensed',serif;font-weight:700;text-transform:uppercase;color:#31302e}
+ h1,h2,h3,h4,h5,h6{font-family:'Saira Extra Condensed',serif;font-weight:700;text-transform:uppercase; color: #0e0d0d}   /*color:#31302e}*/
  h1{font-size:6rem;line-height:5.5rem}
  h2{font-size:3.5rem}
  .subheading{text-transform:uppercase;font-weight:400;font-family:'Saira Extra Condensed',serif;font-size:1.35rem;color:#3D3C3A}
@@ -29,8 +29,12 @@
  section.resume-section .resume-item .resume-date{min-width:none}
  @media (min-width:768px){section.resume-section{min-height:100vh}section.resume-section .resume-item .resume-date{min-width:18rem}}
  @media (min-width:992px){section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}
- .bg-primary{background-color:#412401!important}
+ .bg-primary{background-color: #040b14!important}
  .text-primary{color:#180e01!important}
  a{color:#bd5d38}
  a:active,a:focus,a:hover{color:#824027}
  .no-bullets, .no-bullets li {list-style-type:none;}
+
+ .blue-background {
+    background-color: #fdfdff; /*rgb(178, 194, 247);*/
+  }
