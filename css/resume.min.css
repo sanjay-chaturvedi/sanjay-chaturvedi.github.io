@@ -2,14 +2,15 @@
  * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
- */body{font-family:'Arial',serif;padding-top:54px;color:#2c2c2b}
+ */body{font-family:'Calibri',serif;font-size: 1.25rem;padding-top:54px;color:#2c2c2b}
  @media (min-width:992px)
  {body{padding-top:0;padding-left:17rem}}
- h1,h2,h3,h4,h5,h6{font-family:'Saira Extra Condensed',serif;font-weight:700;text-transform:uppercase; color: #0e0d0d}   /*color:#31302e}*/
+ h1,h2,h4,h5,h6{font-family:'Calibri Condensed',serif;font-weight:700;text-transform:uppercase; color: #292929}   /*color:#31302e}*/
  h1{font-size:6rem;line-height:5.5rem}
  h2{font-size:3.5rem}
- .subheading{text-transform:uppercase;font-weight:400;font-family:'Saira Extra Condensed',serif;font-size:1.35rem;color:#3D3C3A}
- .subheading2{font-weight:400;font-family:'Saira Extra Condensed',serif;font-size:1.35rem;color:#3D3C3A}
+ h3{font-family:'Calibri Condensed',serif;font-size: 1.85rem;font-weight:700;text-transform:uppercase; color: #0e0d0d}
+ .subheading{text-transform:uppercase;font-weight:400;font-family:'Calibri Condensed',serif;font-size:1.35rem;color:#3D3C3A}
+ .subheading2{font-weight:400;font-family:'Calibri Condensed',serif;font-size:1.35rem;color:#3D3C3A}
  .list-social-icons a{color:#6b6a6a}
  .list-social-icons a:hover{color:#110a08}
  .list-social-icons a .fa-lg{font-size:1.75rem}
@@ -19,7 +20,7 @@
  @media (min-width:992px)
  {#sideNav{text-align:center;position:fixed;top:0;left:0;display:flex;flex-direction:column;width:17rem;height:100vh} /*Side navbar width and properties*/
  #sideNav .navbar-brand{display:flex;margin:auto auto 0;padding:.5rem}
- #sideNav .navbar-brand .img-profile{max-width:15rem;max-height:15rem;border:0.25rem solid rgba(241, 237, 237, 0.938)} /* Profile photo circle properties */
+ #sideNav .navbar-brand .img-profile{max-width:13rem;max-height:13rem;border:0.25rem solid rgba(241, 237, 237, 0.938)} /* Profile photo circle properties */
  #sideNav .navbar-collapse{display:flex;align-items:flex-start;flex-grow:0;width:100%;margin-bottom:auto}
  #sideNav .navbar-collapse .navbar-nav{flex-direction:column;width:100%}
  #sideNav .navbar-collapse .navbar-nav .nav-item{display:block}
@@ -29,7 +30,7 @@
  section.resume-section .resume-item .resume-date{min-width:none}
  @media (min-width:768px){section.resume-section{min-height:100vh}section.resume-section .resume-item .resume-date{min-width:18rem}}
  @media (min-width:992px){section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}
- .bg-primary{background-color: #040b14!important}
+ .bg-primary{background-color: #11206d!important}
  .text-primary{color:#180e01!important}
  a{color:#bd5d38}
  a:active,a:focus,a:hover{color:#824027}
@@ -38,3 +39,16 @@
  .blue-background {
     background-color: #fdfdff; /*rgb(178, 194, 247);*/
   }
+
+footer.footer {
+    height: 45px;
+    width: 100%;
+    /*background-color: #333333;*/
+}
+p.copyright {
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.7em;
+}
+
+  /* Saira Extra Condensed */
