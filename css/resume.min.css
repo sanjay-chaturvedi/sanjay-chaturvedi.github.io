@@ -2,16 +2,31 @@
  * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
- */body{font-family:'Calibri',serif;font-size: 1.25rem;padding-top:54px;color:#2c2c2b}
+ */body{font-family:'Roboto',serif;font-size: 1.25rem;padding-top:54px;color:#2c2c2b}
+/*
+ @font-face {
+  font-family: 'Calibri Condensed';
+  src: url('calibri-condensed.woff2') format('woff2'),
+       url('calibri-condensed.woff') format('woff'),
+       url('calibri-condensed.ttf') format('truetype');
+}*/
+/*
+@font-face {
+  font-family: 'Calibri Condensed';
+  src: url('calibri-condensed.woff2') format('woff2');
+  font-display: swap;
+}*/
+
+
  @media (min-width:992px)
  {body{padding-top:0;padding-left:17rem}}
- h1,h2,h4,h5,h6{font-family:'Calibri Condensed',serif;font-weight:700;text-transform:uppercase; color: #292929}   /*color:#31302e}*/
+ h1,h2,h4,h5,h6{font-family:'Roboto',serif;font-weight:700;text-transform:uppercase; color: #292929}   /*color:#31302e}*/
  h1{font-size:6rem;line-height:5.5rem}
  h2{font-size:3.5rem}
- h3{font-family:'Calibri Condensed',serif;font-size: 1.85rem;font-weight:700;text-transform:uppercase; color: #0e0d0d}
- .subheading{text-transform:uppercase;font-weight:400;font-family:'Calibri Condensed',serif;font-size:1.35rem;color:#3D3C3A}
- .subheading2{font-weight:400;font-family:'Calibri Condensed',serif;font-size:1.35rem;color:#3D3C3A}
- .subheading3{text-transform: uppercase;font-weight:400;font-family:'Calibri Condensed',serif;font-size:1.5rem;color:#131212}
+ h3{font-family:'Roboto',serif;font-size: 1.85rem;font-weight:700;text-transform:uppercase; color: #0e0d0d}
+ .subheading{text-transform:uppercase;font-weight:400;font-family:'Roboto',serif;font-size:1.35rem;color:#3D3C3A}
+ .subheading2{font-weight:400;font-family:'Roboto',serif;font-size:1.35rem;color:#3D3C3A}
+ .subheading3{text-transform: uppercase;font-weight:400;font-family:'Roboto',serif;font-size:1.5rem;color:#131212}
  .list-social-icons a{color:#6b6a6a}
  .list-social-icons a:hover{color:#110a08}
  .list-social-icons a .fa-lg{font-size:1.75rem}
